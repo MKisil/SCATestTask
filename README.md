@@ -33,4 +33,8 @@ Once the application is running, you can access it at:
 - Main application: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 - API documentation: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
-*when creating a cat object, you need to specify the breed id from api.thecatapi.com/v1/breeds
+*when creating a spy cat object, you need to specify the breed id from api.thecatapi.com/v1/breeds
+
+API endpoints:
+![image](https://github.com/user-attachments/assets/aabb61e5-c977-4169-9f80-dfb6c0545de7)
+
