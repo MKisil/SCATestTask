@@ -1,7 +1,5 @@
 # Cats Spy Agency Test Task
 
-## Getting Started
-
 Follow these instructions to get the project up and running on your local machine.
 
 ### Prerequisites
