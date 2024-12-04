@@ -13,12 +13,12 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:MKisil/SCATestTask.git
     ```
 
-2. Cd to the project directory:
+2. Go to the project directory:
     ```bash
-    cd TestTask
+    cd SCATestTask
     ```
 
 3. Start the application using Docker Compose:
@@ -32,3 +32,5 @@ Once the application is running, you can access it at:
 
 - Main application: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 - API documentation: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+*when creating a cat object, you need to specify the breed id from api.thecatapi.com/v1/breeds
